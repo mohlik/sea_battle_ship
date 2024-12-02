@@ -1,0 +1,1 @@
+{ "spritemap": { "silence": {"start": 0, "end": 100, "loop": true }, "FinalBS": { "start": 200, "end": 9949.659863945579 }, "explode": { "start": 10299.999999999998, "end": 4293.469387755101 }, "fon": {"start": 15399.999999999998, "end": 52720.839002267574 }, "rocketFly": {"start": 68500, "end": 741.1337868480672}, "splash": {"start": 69600, "end": 1422.040816326529 } } }

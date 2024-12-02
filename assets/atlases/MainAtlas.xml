@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a4eb5f728e33fd04099a28ec2823b5d5$ -->
+<TextureAtlas imagePath="MainAtlas.png">
+    <SubTexture name="Aim" x="862" y="728" width="175" height="175"/>
+    <SubTexture name="CellFill" x="1863" y="226" width="41" height="41"/>
+    <SubTexture name="NextBtn" x="1204" y="598" width="106" height="106"/>
+    <SubTexture name="NextPlayerBtn" x="1147" y="706" width="106" height="106"/>
+    <SubTexture name="RandomBtn" x="1096" y="598" width="106" height="106"/>
+    <SubTexture name="RotateBtn" x="2" y="916" width="107" height="106"/>
+    <SubTexture name="X" x="765" y="477" width="39" height="41" frameX="-1" frameY="0" frameWidth="41" frameHeight="41"/>
+    <SubTexture name="aiDif1Btn" x="785" y="605" width="95" height="121"/>
+    <SubTexture name="aiDif1BtnOff" x="765" y="753" width="95" height="121"/>
+    <SubTexture name="aiDif2Btn" x="574" y="762" width="80" height="122"/>
+    <SubTexture name="aiDif2BtnOff" x="492" y="762" width="80" height="122"/>
+    <SubTexture name="aiIconA" x="1641" y="2" width="65" height="62"/>
+    <SubTexture name="aiIconB" x="1632" y="67" width="65" height="62"/>
+    <SubTexture name="backBtn" x="1389" y="289" width="84" height="68"/>
+    <SubTexture name="cannonball" x="765" y="520" width="39" height="40"/>
+    <SubTexture name="fly/RocketFly0001" x="553" y="886" width="44" height="21" frameX="0" frameY="-32" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0002" x="553" y="886" width="44" height="21" frameX="0" frameY="-32" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0003" x="553" y="886" width="44" height="21" frameX="0" frameY="-32" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0004" x="553" y="886" width="44" height="21" frameX="0" frameY="-32" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0005" x="553" y="886" width="44" height="21" frameX="0" frameY="-32" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0006" x="765" y="456" width="40" height="19" frameX="-31" frameY="-28" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0007" x="765" y="456" width="40" height="19" frameX="-31" frameY="-28" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0008" x="765" y="456" width="40" height="19" frameX="-31" frameY="-28" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0009" x="765" y="456" width="40" height="19" frameX="-31" frameY="-28" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0010" x="765" y="456" width="40" height="19" frameX="-31" frameY="-28" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0011" x="644" y="886" width="36" height="21" frameX="-50" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0012" x="644" y="886" width="36" height="21" frameX="-50" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0013" x="644" y="886" width="36" height="21" frameX="-50" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0014" x="644" y="886" width="36" height="21" frameX="-50" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0015" x="644" y="886" width="36" height="21" frameX="-50" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0016" x="523" y="886" width="28" height="23" frameX="-86" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0017" x="523" y="886" width="28" height="23" frameX="-86" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0018" x="523" y="886" width="28" height="23" frameX="-86" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0019" x="523" y="886" width="28" height="23" frameX="-86" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0020" x="523" y="886" width="28" height="23" frameX="-86" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0021" x="701" y="885" width="16" height="21" frameX="-104" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0022" x="701" y="885" width="16" height="21" frameX="-104" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0023" x="701" y="885" width="16" height="21" frameX="-104" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0024" x="701" y="885" width="16" height="21" frameX="-104" frameY="-26" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0025" x="1582" y="69" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0026" x="1582" y="69" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0027" x="1582" y="69" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0028" x="1582" y="69" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0029" x="1582" y="69" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0030" x="1532" y="69" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0031" x="1992" y="663" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0032" x="1992" y="598" width="48" height="63" frameX="-91" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0033" x="1532" y="2" width="58" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0034" x="1611" y="270" width="58" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0035" x="1890" y="768" width="58" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0036" x="1766" y="665" width="58" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0037" x="1766" y="598" width="58" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0038" x="1600" y="203" width="64" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0039" x="1545" y="270" width="64" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0040" x="1534" y="203" width="64" height="65" frameX="-81" frameY="0" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0041" x="1765" y="63" width="64" height="59" frameX="-81" frameY="-5" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0042" x="1716" y="127" width="64" height="59" frameX="-81" frameY="-5" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0043" x="1666" y="192" width="64" height="59" frameX="-81" frameY="-5" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0044" x="1708" y="2" width="64" height="59" frameX="-81" frameY="-5" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0045" x="1699" y="66" width="64" height="59" frameX="-81" frameY="-5" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0046" x="1650" y="131" width="64" height="59" frameX="-81" frameY="-5" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0047" x="1389" y="218" width="72" height="69" frameX="-81" frameY="-5" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0048" x="1458" y="69" width="72" height="65" frameX="-81" frameY="-9" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0049" x="1458" y="2" width="72" height="65" frameX="-81" frameY="-9" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0050" x="1496" y="792" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0051" x="1402" y="798" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0052" x="1308" y="811" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0053" x="1214" y="814" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0054" x="1120" y="815" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0055" x="645" y="395" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0056" x="551" y="395" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0057" x="457" y="395" width="92" height="75" frameX="-70" frameY="-2" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0058" x="1831" y="63" width="62" height="57" frameX="-88" frameY="-14" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0059" x="1732" y="188" width="62" height="59" frameX="-88" frameY="-13" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0060" x="1947" y="878" width="64" height="59" frameX="-87" frameY="-13" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0061" x="1824" y="804" width="64" height="59" frameX="-87" frameY="-14" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0062" x="739" y="395" width="66" height="59" frameX="-86" frameY="-14" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0063" x="1475" y="270" width="68" height="65" frameX="-88" frameY="-9" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0064" x="1458" y="136" width="70" height="65" frameX="-86" frameY="-10" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0065" x="1952" y="728" width="90" height="73" frameX="-71" frameY="-4" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0066" x="1766" y="865" width="90" height="73" frameX="-71" frameY="-4" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0067" x="1735" y="944" width="90" height="73" frameX="-71" frameY="-4" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0068" x="1683" y="746" width="72" height="69" frameX="-86" frameY="-7" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0069" x="1683" y="746" width="72" height="69" frameX="-86" frameY="-7" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0070" x="1683" y="746" width="72" height="69" frameX="-86" frameY="-7" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0071" x="1683" y="746" width="72" height="69" frameX="-86" frameY="-7" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0072" x="1683" y="746" width="72" height="69" frameX="-86" frameY="-7" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="fly/RocketFly0073" x="1683" y="746" width="72" height="69" frameX="-86" frameY="-7" frameWidth="162" frameHeight="77"/>
+    <SubTexture name="flyBang/RocketFly0001" x="599" y="886" width="43" height="21" frameX="0" frameY="-66" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0002" x="599" y="886" width="43" height="21" frameX="0" frameY="-66" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0003" x="599" y="886" width="43" height="21" frameX="0" frameY="-66" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0004" x="599" y="886" width="43" height="21" frameX="0" frameY="-66" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0005" x="599" y="886" width="43" height="21" frameX="0" frameY="-66" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0006" x="764" y="885" width="41" height="19" frameX="-30" frameY="-62" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0007" x="764" y="885" width="41" height="19" frameX="-30" frameY="-62" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0008" x="764" y="885" width="41" height="19" frameX="-30" frameY="-62" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0009" x="764" y="885" width="41" height="19" frameX="-30" frameY="-62" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0010" x="764" y="885" width="41" height="19" frameX="-30" frameY="-62" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0011" x="807" y="876" width="37" height="19" frameX="-49" frameY="-61" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0012" x="807" y="876" width="37" height="19" frameX="-49" frameY="-61" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0013" x="807" y="876" width="37" height="19" frameX="-49" frameY="-61" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0014" x="807" y="876" width="37" height="19" frameX="-49" frameY="-61" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0015" x="807" y="876" width="37" height="19" frameX="-49" frameY="-61" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0016" x="492" y="886" width="29" height="23" frameX="-85" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0017" x="492" y="886" width="29" height="23" frameX="-85" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0018" x="492" y="886" width="29" height="23" frameX="-85" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0019" x="492" y="886" width="29" height="23" frameX="-85" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0020" x="492" y="886" width="29" height="23" frameX="-85" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0021" x="682" y="885" width="17" height="21" frameX="-103" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0022" x="682" y="885" width="17" height="21" frameX="-103" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0023" x="682" y="885" width="17" height="21" frameX="-103" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0024" x="682" y="885" width="17" height="21" frameX="-103" frameY="-60" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0025" x="1601" y="134" width="47" height="63" frameX="-92" frameY="-34" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0026" x="1601" y="134" width="47" height="63" frameX="-92" frameY="-34" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0027" x="1601" y="134" width="47" height="63" frameX="-92" frameY="-34" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0028" x="1601" y="134" width="47" height="63" frameX="-92" frameY="-34" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0029" x="1601" y="134" width="47" height="63" frameX="-92" frameY="-34" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0030" x="1592" y="2" width="47" height="63" frameX="-92" frameY="-34" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0031" x="664" y="557" width="97" height="83" frameX="-62" frameY="-33" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0032" x="664" y="472" width="97" height="83" frameX="-62" frameY="-33" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0033" x="1544" y="598" width="93" height="95" frameX="-74" frameY="-28" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0034" x="1485" y="695" width="93" height="95" frameX="-74" frameY="-28" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0035" x="989" y="598" width="105" height="107" frameX="-68" frameY="-24" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0036" x="882" y="598" width="105" height="107" frameX="-68" frameY="-24" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0037" x="1245" y="891" width="109" height="99" frameX="-64" frameY="-17" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0038" x="1312" y="598" width="109" height="99" frameX="-64" frameY="-17" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0039" x="1580" y="695" width="101" height="93" frameX="-65" frameY="-23" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0040" x="1477" y="875" width="101" height="93" frameX="-65" frameY="-23" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0041" x="654" y="909" width="109" height="111" frameX="-62" frameY="-18" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0042" x="543" y="911" width="109" height="111" frameX="-62" frameY="-18" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0043" x="656" y="762" width="107" height="121" frameX="-58" frameY="-11" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0044" x="1017" y="905" width="117" height="109" frameX="-51" frameY="-29" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0045" x="898" y="905" width="117" height="109" frameX="-51" frameY="-29" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0046" x="664" y="642" width="119" height="109" frameX="-53" frameY="-24" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0047" x="1356" y="888" width="119" height="95" frameX="-55" frameY="-27" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0048" x="1423" y="598" width="119" height="95" frameX="-55" frameY="-27" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0049" x="765" y="906" width="131" height="109" frameX="-45" frameY="-15" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0050" x="1364" y="699" width="119" height="97" frameX="-55" frameY="-25" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0051" x="1255" y="706" width="107" height="103" frameX="-59" frameY="-30" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0052" x="1136" y="892" width="107" height="103" frameX="-59" frameY="-30" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0053" x="1673" y="867" width="91" height="75" frameX="-70" frameY="-36" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0054" x="1590" y="790" width="91" height="75" frameX="-70" frameY="-36" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0055" x="1642" y="946" width="91" height="75" frameX="-70" frameY="-36" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0056" x="1580" y="869" width="91" height="75" frameX="-70" frameY="-36" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0057" x="1639" y="598" width="91" height="75" frameX="-70" frameY="-36" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0058" x="1839" y="2" width="61" height="57" frameX="-88" frameY="-48" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0059" x="1782" y="124" width="63" height="57" frameX="-87" frameY="-49" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0060" x="1671" y="253" width="63" height="59" frameX="-87" frameY="-47" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0061" x="1774" y="2" width="63" height="59" frameX="-88" frameY="-48" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0062" x="1757" y="804" width="65" height="59" frameX="-87" frameY="-48" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0063" x="1530" y="136" width="69" height="65" frameX="-86" frameY="-43" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0064" x="1463" y="203" width="69" height="65" frameX="-87" frameY="-43" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0065" x="1950" y="803" width="87" height="73" frameX="-72" frameY="-37" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0066" x="1858" y="865" width="87" height="73" frameX="-72" frameY="-37" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0067" x="1827" y="940" width="87" height="73" frameX="-72" frameY="-37" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0068" x="1683" y="675" width="73" height="69" frameX="-85" frameY="-41" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0069" x="1683" y="675" width="73" height="69" frameX="-85" frameY="-41" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0070" x="1683" y="675" width="73" height="69" frameX="-85" frameY="-41" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0071" x="1683" y="675" width="73" height="69" frameX="-85" frameY="-41" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0072" x="1683" y="675" width="73" height="69" frameX="-85" frameY="-41" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="flyBang/RocketFly0073" x="1683" y="675" width="73" height="69" frameX="-85" frameY="-41" frameWidth="183" frameHeight="139"/>
+    <SubTexture name="game_frame" x="2" y="2" width="453" height="470"/>
+    <SubTexture name="homeBtn" x="1039" y="707" width="106" height="106"/>
+    <SubTexture name="logo" x="457" y="2" width="930" height="391"/>
+    <SubTexture name="medal" x="492" y="472" width="170" height="288"/>
+    <SubTexture name="onePlayerBtn" x="435" y="916" width="106" height="106"/>
+    <SubTexture name="pauseBtn" x="1039" y="815" width="79" height="80"/>
+    <SubTexture name="player1IconA" x="1389" y="146" width="67" height="70"/>
+    <SubTexture name="player1IconB" x="1389" y="74" width="67" height="70"/>
+    <SubTexture name="player2IconA" x="1389" y="2" width="67" height="70"/>
+    <SubTexture name="player2IconB" x="1758" y="732" width="67" height="70"/>
+    <SubTexture name="rocket" x="719" y="885" width="43" height="19"/>
+    <SubTexture name="ruler" x="807" y="395" width="1212" height="201"/>
+    <SubTexture name="ship1" x="1820" y="269" width="41" height="41"/>
+    <SubTexture name="ship1D" x="1820" y="226" width="41" height="41"/>
+    <SubTexture name="ship1_green" x="1847" y="122" width="41" height="41"/>
+    <SubTexture name="ship1_red" x="1683" y="817" width="41" height="41"/>
+    <SubTexture name="ship2" x="1796" y="183" width="82" height="41"/>
+    <SubTexture name="ship2D" x="1795" y="335" width="82" height="41"/>
+    <SubTexture name="ship2_green" x="1736" y="292" width="82" height="41"/>
+    <SubTexture name="ship2_red" x="1736" y="249" width="82" height="41"/>
+    <SubTexture name="ship3" x="1670" y="337" width="123" height="41"/>
+    <SubTexture name="ship3D" x="1545" y="337" width="123" height="41"/>
+    <SubTexture name="ship3_green" x="1916" y="940" width="123" height="41"/>
+    <SubTexture name="ship3_red" x="1827" y="725" width="123" height="41"/>
+    <SubTexture name="ship4" x="1827" y="598" width="163" height="41"/>
+    <SubTexture name="ship4D" x="1477" y="970" width="163" height="41"/>
+    <SubTexture name="ship4_green" x="1827" y="683" width="163" height="40"/>
+    <SubTexture name="ship4_red" x="1827" y="641" width="163" height="40"/>
+    <SubTexture name="smoke" x="2" y="474" width="488" height="440"/>
+    <SubTexture name="soundOffBtn" x="327" y="916" width="106" height="106"/>
+    <SubTexture name="soundOnBtn" x="219" y="916" width="106" height="106"/>
+    <SubTexture name="twoPlayersBtn" x="111" y="916" width="106" height="106"/>
+    <SubTexture name="upBtn" x="1475" y="337" width="68" height="53"/>
+    <SubTexture name="xRed" x="763" y="562" width="41" height="41"/>
+</TextureAtlas>
